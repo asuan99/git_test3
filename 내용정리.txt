@@ -1,5 +1,6 @@
 Github enterprise + gitlab
 Github 용량 제한
 sourcetree 사용법
-github action
+github action (CI/CD 개념)
 
+statsh, tag 
