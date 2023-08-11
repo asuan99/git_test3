@@ -1,1 +1,0 @@
-ADD_EXECUTABLE(hello.exe hello.c)
