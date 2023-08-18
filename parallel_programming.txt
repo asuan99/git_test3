@@ -1,0 +1,20 @@
+threads 
+
+상호배제
+mutex - lock을 잠그고 푸는 과정
+unique_lock - 일반 목적의 mutex
+condition_variable 
+	- 작업 잠금의 대기와 해제에 대한 알림
+
+atomics - 연산 
+producer/consumer = semaphore
+-> memory order (atomics 변수랑 함께 사용)
+
+비동기 작업
+async
+promise
+
+future
+packaged_task (반복 사용) 
+	- 기존 C++ 코드 스타일 유지 가능
+atomics (상호배제의 유지)
