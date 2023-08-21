@@ -1,4 +1,6 @@
 Github enterprise + gitlab
+  gitlab CI/CD with github repository (https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/github_integration.html)
+
 Github 용량 제한
 sourcetree 사용법
   https://velog.io/@bami/Sourcetree-%EC%86%8C%EC%8A%A4%ED%8A%B8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95
